@@ -1,3 +1,4 @@
 -cp ./src/
+-lib haxe-threadpool
 -neko run.n
 -main Run
